@@ -1,0 +1,30 @@
+{
+  "Metadata": {
+    "title": "隐私政策 | Block Blast",
+    "description": "了解我们如何在您玩 Block Blast 这款令人上瘾的在线益智游戏时保护您的隐私。"
+  },
+  "title": "隐私政策",
+  "subtitle": "我们如何在 Block Blast 中保护您的数据",
+  "sections": {
+    "informationCollection": {
+      "title": "信息收集",
+      "content": "我们收集您在 Block Blast 中的游戏数据，包括您的表现、方块放置策略和游戏统计信息。这些数据用于优化您的游戏体验并改进游戏。"
+    },
+    "dataSecurity": {
+      "title": "数据安全",
+      "content": "我们使用先进的加密技术来保护您的数据，就像保护您在 Block Blast 中的高分记录一样安全。在这个数字世界中，我们始终保持警惕，确保您的信息得到保护。"
+    },
+    "cookieUsage": {
+      "title": "Cookie 使用",
+      "content": "我们使用 cookie 来记录您的游戏偏好和设置，类似于 Block Blast 记住您的最佳策略和喜爱的配色方案。这些 cookie 帮助我们提供更个性化��引人入胜的游戏体验。"
+    },
+    "policyUpdate": {
+      "title": "政策更新",
+      "content": "我们可能会不时更新此隐私政策，就像 Block Blast 会收到新功能和挑战一样。请定期查看以了解我们如何处理您的信息。"
+    },
+    "noLogin": {
+      "title": "无需登录",
+      "content": "Block Blast 不要求用户创建账户或登录。您可以直接在浏览器中开始您的益智冒险，无需提供任何个人身份信息。"
+    }
+  }
+}

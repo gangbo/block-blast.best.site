@@ -1,0 +1,30 @@
+{
+  "Metadata": {
+    "title": "Politique de Confidentialité | Block Blast",
+    "description": "Découvrez comment nous protégeons votre vie privée lorsque vous jouez à Block Blast, le jeu de puzzle en ligne addictif."
+  },
+  "title": "Politique de Confidentialité",
+  "subtitle": "Comment Nous Protégeons Vos Données dans Block Blast",
+  "sections": {
+    "informationCollection": {
+      "title": "Collecte d'Informations",
+      "content": "Nous collectons vos données de jeu, y compris vos performances, vos stratégies de placement de blocs et vos statistiques de jeu dans Block Blast. Ces données sont utilisées pour optimiser votre expérience de jeu et améliorer le jeu."
+    },
+    "dataSecurity": {
+      "title": "Sécurité des Données",
+      "content": "Nous utilisons une technologie de cryptage avancée pour protéger vos données, tout comme les systèmes sécurisés qui gardent vos meilleurs scores en sécurité dans Block Blast. Dans ce monde numérique, nous restons vigilants à tout moment pour garantir la protection de vos informations."
+    },
+    "cookieUsage": {
+      "title": "Utilisation des Cookies",
+      "content": "Nous utilisons des cookies pour enregistrer vos préférences et paramètres de jeu, similaire à la façon dont Block Blast se souvient de vos meilleures stratégies et schémas de couleurs préférés. Ces cookies nous aident à fournir une expérience de jeu plus personnalisée et engageante."
+    },
+    "policyUpdate": {
+      "title": "Mises à Jour de la Politique",
+      "content": "Nous pouvons mettre à jour cette politique de confidentialité de temps en temps, tout comme Block Blast reçoit de nouvelles fonctionnalités et défis. Veuillez vérifier périodiquement pour rester informé sur la façon dont nous gérons vos informations."
+    },
+    "noLogin": {
+      "title": "Pas de Connexion Requise",
+      "content": "Block Blast ne nécessite pas que les utilisateurs créent un compte ou se connectent. Vous pouvez commencer votre aventure de résolution de puzzles directement dans votre navigateur sans fournir aucune information d'identification personnelle."
+    }
+  }
+}

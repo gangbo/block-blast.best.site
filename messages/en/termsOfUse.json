@@ -1,0 +1,34 @@
+{
+  "Metadata": {
+    "title": "Terms of Use | Block Blast",
+    "description": "Please read our terms of use carefully before starting your puzzle-solving adventure in Block Blast."
+  },
+  "title": "Terms of Use",
+  "subtitle": "Essential guidelines for your Block Blast experience",
+  "sections": {
+    "acceptance": {
+      "title": "Acceptance of Terms",
+      "content": "By accessing or using Block Blast, you agree to comply with and be bound by these terms. Your puzzle-solving journey begins with understanding these rules."
+    },
+    "userBehavior": {
+      "title": "User Behavior",
+      "content": "In the world of Block Blast, your actions matter. We expect all players to engage in fair play and respect other users. Cheating, harassment, or any form of disruptive behavior may result in penalties or game restrictions."
+    },
+    "disclaimer": {
+      "title": "Disclaimer",
+      "content": "Block Blast is an engaging puzzle game that may be challenging for some players. We are not responsible for any frustration or strong emotional reactions players may experience due to the game's content, including difficult levels or competitive gameplay."
+    },
+    "modification": {
+      "title": "Modification of Terms",
+      "content": "We reserve the right to modify these terms at any time, much like how the puzzles and challenges in Block Blast can change with each update. Continued use of the game after changes are made indicates your acceptance of the new terms."
+    },
+    "noAccount": {
+      "title": "No Account Required",
+      "content": "Block Blast does not require user accounts. You can play directly in your browser without registration. However, this means your game progress and achievements may not be saved between sessions."
+    },
+    "intellectualProperty": {
+      "title": "Intellectual Property",
+      "content": "All content in Block Blast, including but not limited to graphics, block designs, and game mechanics, is protected by copyright and other intellectual property laws. Users are prohibited from copying, distributing, or creating derivative works without our explicit permission."
+    }
+  }
+}

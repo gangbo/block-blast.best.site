@@ -1,0 +1,34 @@
+{
+  "Metadata": {
+    "title": "Termos de Uso | Block Blast",
+    "description": "Por favor, leia atentamente nossos termos de uso antes de iniciar sua aventura de resolução de quebra-cabeças no Block Blast."
+  },
+  "title": "Termos de Uso",
+  "subtitle": "Diretrizes essenciais para sua experiência no Block Blast",
+  "sections": {
+    "acceptance": {
+      "title": "Aceitação dos Termos",
+      "content": "Ao acessar ou usar o Block Blast, você concorda em cumprir e estar vinculado a estes termos. Sua jornada de resolução de quebra-cabeças começa com a compreensão dessas regras."
+    },
+    "userBehavior": {
+      "title": "Comportamento do Usuário",
+      "content": "No mundo do Block Blast, suas ações importam. Esperamos que todos os jogadores se envolvam em jogo justo e respeitem outros usuários. Trapaças, assédio ou qualquer forma de comportamento disruptivo podem resultar em penalidades ou restrições de jogo."
+    },
+    "disclaimer": {
+      "title": "Isenção de Responsabilidade",
+      "content": "Block Blast é um jogo de quebra-cabeça envolvente que pode ser desafiador para alguns jogadores. Não nos responsabilizamos por qualquer frustração ou reações emocionais fortes que os jogadores possam experimentar devido ao conteúdo do jogo, incluindo níveis difíceis ou jogabilidade competitiva."
+    },
+    "modification": {
+      "title": "Modificação dos Termos",
+      "content": "Reservamo-nos o direito de modificar estes termos a qualquer momento, assim como os quebra-cabeças e desafios no Block Blast podem mudar com cada atualização. O uso contínuo do jogo após as alterações serem feitas indica sua aceitação dos novos termos."
+    },
+    "noAccount": {
+      "title": "Sem Necessidade de Conta",
+      "content": "Block Blast não requer contas de usuário. Você pode jogar diretamente em seu navegador sem registro. No entanto, isso significa que seu progresso no jogo e conquistas podem não ser salvos entre sessões."
+    },
+    "intellectualProperty": {
+      "title": "Propriedade Intelectual",
+      "content": "Todo o conteúdo do Block Blast, incluindo, mas não se limitando a gráficos, designs de blocos e mecânicas de jogo, é protegido por direitos autorais e outras leis de propriedade intelectual. Os usuários são proibidos de copiar, distribuir ou criar trabalhos derivados sem nossa permissão explícita."
+    }
+  }
+}

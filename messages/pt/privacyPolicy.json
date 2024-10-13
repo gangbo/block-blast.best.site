@@ -1,0 +1,30 @@
+{
+  "Metadata": {
+    "title": "Política de Privacidade | Block Blast",
+    "description": "Saiba como protegemos sua privacidade enquanto você joga Block Blast, o viciante jogo de quebra-cabeça online."
+  },
+  "title": "Política de Privacidade",
+  "subtitle": "Como Protegemos Seus Dados no Block Blast",
+  "sections": {
+    "informationCollection": {
+      "title": "Coleta de Informações",
+      "content": "Coletamos seus dados de jogo, incluindo seu desempenho, estratégias de colocação de blocos e estatísticas de jogo no Block Blast. Esses dados são usados para otimizar sua experiência de jogo e melhorar o jogo."
+    },
+    "dataSecurity": {
+      "title": "Segurança de Dados",
+      "content": "Usamos tecnologia de criptografia avançada para proteger seus dados, assim como os sistemas seguros que mantêm suas pontuações altas protegidas no Block Blast. Neste mundo digital, permanecemos vigilantes o tempo todo para garantir que suas informações permaneçam protegidas."
+    },
+    "cookieUsage": {
+      "title": "Uso de Cookies",
+      "content": "Usamos cookies para registrar suas preferências e configurações de jogo, semelhante a como o Block Blast lembra suas melhores estratégias e esquemas de cores favoritos. Esses cookies nos ajudam a fornecer uma experiência de jogo mais personalizada e envolvente."
+    },
+    "policyUpdate": {
+      "title": "Atualizações da Política",
+      "content": "Podemos atualizar esta política de privacidade de tempos em tempos, assim como o Block Blast recebe novos recursos e desafios. Por favor, verifique periodicamente para se manter informado sobre como lidamos com suas informações."
+    },
+    "noLogin": {
+      "title": "Sem Necessidade de Login",
+      "content": "O Block Blast não exige que os usuários criem uma conta ou façam login. Você pode iniciar sua aventura de resolução de quebra-cabeças diretamente em seu navegador sem fornecer nenhuma informação de identificação pessoal."
+    }
+  }
+}

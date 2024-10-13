@@ -1,0 +1,30 @@
+{
+  "Metadata": {
+    "title": "Privacy Policy | Block Blast",
+    "description": "Learn how we protect your privacy while playing Block Blast, the addictive online puzzle game."
+  },
+  "title": "Privacy Policy",
+  "subtitle": "How We Safeguard Your Data in Block Blast",
+  "sections": {
+    "informationCollection": {
+      "title": "Information Collection",
+      "content": "We collect your game data, including your performance, block placement strategies, and gameplay statistics in Block Blast. This data is used to optimize your gaming experience and improve the game."
+    },
+    "dataSecurity": {
+      "title": "Data Security",
+      "content": "We use advanced encryption technology to protect your data, much like the secure systems that keep your high scores safe in Block Blast. In this digital world, we remain vigilant at all times to ensure your information stays protected."
+    },
+    "cookieUsage": {
+      "title": "Cookie Usage",
+      "content": "We use cookies to record your game preferences and settings, similar to how Block Blast remembers your best strategies and favorite color schemes. These cookies help us provide a more personalized and engaging gaming experience."
+    },
+    "policyUpdate": {
+      "title": "Policy Updates",
+      "content": "We may update this privacy policy from time to time, just as Block Blast receives new features and challenges. Please check back periodically to stay informed about how we handle your information."
+    },
+    "noLogin": {
+      "title": "No Login Required",
+      "content": "Block Blast does not require users to create an account or log in. You can start your puzzle-solving adventure directly in your browser without providing any personal identification information."
+    }
+  }
+}

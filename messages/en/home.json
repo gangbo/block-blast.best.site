@@ -1,0 +1,83 @@
+{
+  "Metadata": {
+    "title": "Block Blast - Challenge Your Block-Clearing Skills | Free Online Puzzle Game",
+    "description": "Block Blast is an addictive online puzzle game that challenges players to place different shapes into a grid, clearing complete rows or columns for points. Easy to learn, yet hard to master!",
+    "keywords": "Block Blast, puzzle game, brain teaser, online game, free game, skill challenge"
+  },
+  "hero": {
+    "title": "Block Blast - Test Your Block-Clearing Prowess",
+    "subtitle": "Dive into a simple yet deep online puzzle experience"
+  },
+  "play": {
+    "title": "Start Playing",
+    "description": "Ready to put your block-clearing skills to the test? Click below to start playing Block Blast and experience the thrill!"
+  },
+  "introduction": {
+    "title": "Game Overview",
+    "content": "Block Blast is an engaging online puzzle game that challenges players to strategically place various shapes into a grid. Clear complete rows or columns to score points. It's easy to pick up, but mastering it requires strategy and skill."
+  },
+  "screenshots": {
+    "title": "Game Screenshots"
+  },
+  "rules": {
+    "title": "Game Rules",
+    "items": [
+      "Drag and drop blocks onto the grid",
+      "Blocks disappear when you complete a row or column",
+      "Score points by clearing blocks",
+      "Game ends when no new blocks can be placed"
+    ]
+  },
+  "howToPlay": {
+    "title": "How to Get Started",
+    "steps": [
+      "Visit https://block-blast.best",
+      "Click the 'Play Now' button",
+      "Use your mouse or touchscreen to drag and drop blocks",
+      "Strategically place blocks to clear more rows and columns",
+      "Challenge yourself to achieve the highest score!"
+    ]
+  },
+  "features": {
+    "title": "Game Features",
+    "items": [
+      "Completely free, no download required",
+      "Suitable for players of all ages",
+      "Compatible with both desktop and mobile devices",
+      "Easy to learn, challenging to master",
+      "Regular updates with new features and challenges"
+    ]
+  },
+  "playerReviews": {
+    "title": "Player Feedback",
+    "reviews": [
+      {
+        "content": "Block Blast is my go-to game during my daily commute. Simple yet deep, it's incredibly addictive!",
+        "author": "Mike S. - Gaming Enthusiast"
+      },
+      {
+        "content": "This game is fantastic! It's a great way to relax and exercise your brain at the same time. Highly recommended!",
+        "author": "Sarah L. - Casual Gamer"
+      },
+      {
+        "content": "Block Blast helps me unwind between study sessions. It's fun, simple, and I don't need to install anything. So convenient!",
+        "author": "Emily W. - Student"
+      },
+      {
+        "content": "This game is addictive! I always want to play just one more round. Clean interface, smooth gameplay - it's perfect!",
+        "author": "David C. - Office Worker"
+      },
+      {
+        "content": "Block Blast is the best online puzzle game I've found. It's a great way to pass time and keep my mind active.",
+        "author": "Robert Y. - Retiree"
+      },
+      {
+        "content": "It's an ideal game to play at home. Great for killing time and exercising your mind. My kids love it too!",
+        "author": "Jennifer X. - Stay-at-home Parent"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2024 Block Blast. All rights reserved."
+  }
+}

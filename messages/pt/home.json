@@ -1,0 +1,83 @@
+{
+  "Metadata": {
+    "title": "Block Blast - Desafie Suas Habilidades de Limpeza de Blocos | Jogo de Quebra-Cabeça Online Grátis",
+    "description": "Block Blast é um jogo de quebra-cabeça online viciante que desafia os jogadores a colocar diferentes formas em uma grade, limpando linhas ou colunas completas para marcar pontos. Fácil de aprender, mas difícil de dominar!",
+    "keywords": "Block Blast, jogo de quebra-cabeça, desafio mental, jogo online, jogo grátis, desafio de habilidade"
+  },
+  "hero": {
+    "title": "Block Blast - Teste Sua Perícia em Limpeza de Blocos",
+    "subtitle": "Mergulhe em uma experiência de quebra-cabeça online simples, mas profunda"
+  },
+  "play": {
+    "title": "Comece a Jogar",
+    "description": "Pronto para testar suas habilidades de limpeza de blocos? Clique abaixo para começar a jogar Block Blast e sinta a emoção!"
+  },
+  "introduction": {
+    "title": "Visão Geral do Jogo",
+    "content": "Block Blast é um jogo de quebra-cabeça online envolvente que desafia os jogadores a colocar estrategicamente várias formas em uma grade. Limpe linhas ou colunas completas para marcar pontos. É fácil de começar, mas dominá-lo requer estratégia e habilidade."
+  },
+  "screenshots": {
+    "title": "Capturas de Tela do Jogo"
+  },
+  "rules": {
+    "title": "Regras do Jogo",
+    "items": [
+      "Arraste e solte blocos na grade",
+      "Os blocos desaparecem quando você completa uma linha ou coluna",
+      "Marque pontos limpando blocos",
+      "O jogo termina quando não é possível colocar novos blocos"
+    ]
+  },
+  "howToPlay": {
+    "title": "Como Começar",
+    "steps": [
+      "Visite https://block-blast.best",
+      "Clique no botão 'Jogar Agora'",
+      "Use o mouse ou a tela sensível ao toque para arrastar e soltar blocos",
+      "Coloque os blocos estrategicamente para limpar mais linhas e colunas",
+      "Desafie-se a alcançar a pontuação mais alta!"
+    ]
+  },
+  "features": {
+    "title": "Características do Jogo",
+    "items": [
+      "Totalmente gratuito, sem necessidade de download",
+      "Adequado para jogadores de todas as idades",
+      "Compatível com dispositivos desktop e móveis",
+      "Fácil de aprender, desafiador de dominar",
+      "Atualizações regulares com novos recursos e desafios"
+    ]
+  },
+  "playerReviews": {
+    "title": "Feedback dos Jogadores",
+    "reviews": [
+      {
+        "content": "Block Blast é o meu jogo preferido durante o trajeto diário. Simples, mas profundo, é incrivelmente viciante!",
+        "author": "Miguel S. - Entusiasta de Jogos"
+      },
+      {
+        "content": "Este jogo é fantástico! É uma ótima maneira de relaxar e exercitar o cérebro ao mesmo tempo. Altamente recomendado!",
+        "author": "Sofia L. - Jogadora Casual"
+      },
+      {
+        "content": "Block Blast me ajuda a relaxar entre as sessões de estudo. É divertido, simples e não preciso instalar nada. Super conveniente!",
+        "author": "Eduarda W. - Estudante"
+      },
+      {
+        "content": "Este jogo é viciante! Sempre quero jogar mais uma rodada. Interface limpa, jogabilidade suave - é perfeito!",
+        "author": "Daniel C. - Trabalhador de Escritório"
+      },
+      {
+        "content": "Block Blast é o melhor jogo de quebra-cabeça online que já encontrei. É uma ótima maneira de passar o tempo e manter a mente ativa.",
+        "author": "Roberto Y. - Aposentado"
+      },
+      {
+        "content": "É um jogo ideal para jogar em casa. Ótimo para passar o tempo e exercitar a mente. Meus filhos também adoram!",
+        "author": "Juliana X. - Mãe em Tempo Integral"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2024 Block Blast. Todos os direitos reservados."
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "Metadata": {
+    "title": "Block Blast - Défiez vos compétences en élimination de blocs | Jeu de puzzle en ligne gratuit",
+    "description": "Block Blast est un jeu de puzzle en ligne addictif qui défie les joueurs de placer différentes formes dans une grille, en éliminant des lignes ou des colonnes complètes pour marquer des points. Facile à apprendre, mais difficile à maîtriser !",
+    "keywords": "Block Blast, jeu de puzzle, casse-tête, jeu en ligne, jeu gratuit, défi de compétences"
+  },
+  "hero": {
+    "title": "Block Blast - Testez votre expertise en élimination de blocs",
+    "subtitle": "Plongez dans une expérience de puzzle en ligne simple mais profonde"
+  },
+  "play": {
+    "title": "Commencer à jouer",
+    "description": "Prêt à mettre vos compétences en élimination de blocs à l'épreuve ? Cliquez ci-dessous pour commencer à jouer à Block Blast et ressentir le frisson !"
+  },
+  "introduction": {
+    "title": "Aperçu du jeu",
+    "content": "Block Blast est un jeu de puzzle en ligne captivant qui défie les joueurs de placer stratégiquement diverses formes dans une grille. Éliminez des lignes ou des colonnes complètes pour marquer des points. C'est facile à prendre en main, mais la maîtrise nécessite stratégie et compétence."
+  },
+  "screenshots": {
+    "title": "Captures d'écran du jeu"
+  },
+  "rules": {
+    "title": "Règles du jeu",
+    "items": [
+      "Faites glisser et déposez les blocs sur la grille",
+      "Les blocs disparaissent lorsque vous complétez une ligne ou une colonne",
+      "Marquez des points en éliminant des blocs",
+      "Le jeu se termine lorsqu'aucun nouveau bloc ne peut être placé"
+    ]
+  },
+  "howToPlay": {
+    "title": "Comment commencer",
+    "steps": [
+      "Visitez https://block-blast.best",
+      "Cliquez sur le bouton 'Jouer maintenant'",
+      "Utilisez votre souris ou votre écran tactile pour faire glisser et déposer les blocs",
+      "Placez stratégiquement les blocs pour éliminer plus de lignes et de colonnes",
+      "Défiez-vous pour atteindre le meilleur score !"
+    ]
+  },
+  "features": {
+    "title": "Caractéristiques du jeu",
+    "items": [
+      "Entièrement gratuit, aucun téléchargement requis",
+      "Convient aux joueurs de tous âges",
+      "Compatible avec les ordinateurs de bureau et les appareils mobiles",
+      "Facile à apprendre, difficile à maîtriser",
+      "Mises à jour régulières avec de nouvelles fonctionnalités et défis"
+    ]
+  },
+  "playerReviews": {
+    "title": "Avis des joueurs",
+    "reviews": [
+      {
+        "content": "Block Blast est mon jeu de prédilection pendant mes trajets quotidiens. Simple mais profond, c'est incroyablement addictif !",
+        "author": "Michel S. - Passionné de jeux"
+      },
+      {
+        "content": "Ce jeu est fantastique ! C'est un excellent moyen de se détendre et d'exercer son cerveau en même temps. Hautement recommandé !",
+        "author": "Sophie L. - Joueuse occasionnelle"
+      },
+      {
+        "content": "Block Blast m'aide à me détendre entre les sessions d'étude. C'est amusant, simple, et je n'ai pas besoin d'installer quoi que ce soit. Tellement pratique !",
+        "author": "Émilie W. - Étudiante"
+      },
+      {
+        "content": "Ce jeu est addictif ! J'ai toujours envie de faire une partie de plus. Interface épurée, gameplay fluide - c'est parfait !",
+        "author": "David C. - Employé de bureau"
+      },
+      {
+        "content": "Block Blast est le meilleur jeu de puzzle en ligne que j'ai trouvé. C'est un excellent moyen de passer le temps et de garder mon esprit actif.",
+        "author": "Robert Y. - Retraité"
+      },
+      {
+        "content": "C'est un jeu idéal à jouer à la maison. Parfait pour tuer le temps et exercer son esprit. Mes enfants l'adorent aussi !",
+        "author": "Jeanne X. - Parent au foyer"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2024 Block Blast. Tous droits réservés."
+  }
+}

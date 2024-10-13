@@ -1,0 +1,34 @@
+{
+  "Metadata": {
+    "title": "使用条款 | Block Blast",
+    "description": "在开始您的 Block Blast 益智冒险之前，请仔细阅读我们的使用条款。"
+  },
+  "title": "使用条款",
+  "subtitle": "您的 Block Blast 体验的基本指南",
+  "sections": {
+    "acceptance": {
+      "title": "条款接受",
+      "content": "通过访问或使用 Block Blast，您同意遵守并受这些条款的约束。您的益智之旅从理解这些规则开始。"
+    },
+    "userBehavior": {
+      "title": "用户行为",
+      "content": "在 Block Blast 的世界中，您的行为很重要。我们期望所有玩家公平竞争并尊重其他用户。作弊、骚扰或任何形式的破坏性行为可能会导致处罚或游戏限制。"
+    },
+    "disclaimer": {
+      "title": "免责声明",
+      "content": "Block Blast 是一款引人入胜的益智游戏，对某些玩家来说可能具有挑战性。我们不对玩家因游戏内容（包括困难关卡或竞争性游戏）而可能产生的任何挫折感或强烈情绪反应负责。"
+    },
+    "modification": {
+      "title": "条款修改",
+      "content": "我们保留随时修改这些条款的权利，就像 Block Blast 中的谜题和挑战可能随每次更新而改变一样。在做出更改后继续使用游戏表示您接受新的条款。"
+    },
+    "noAccount": {
+      "title": "无需账户",
+      "content": "Block Blast 不需要用户账户。您可以直接在浏览器中玩游戏，无需注册。但这意味着您的游戏进度和成就可能不会在不同会话之间保存。"
+    },
+    "intellectualProperty": {
+      "title": "知识产权",
+      "content": "Block Blast 中的所有内容，包括但不限于图形、方块设计和游戏机制，均受版权和其他知识产权法律保护。未经我们明确许可，用户禁止复制、分发或创作衍生作品。"
+    }
+  }
+}
